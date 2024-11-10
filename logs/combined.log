@@ -1,0 +1,44 @@
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"app.init error"}
+{"level":"error","message":"ReferenceError"}
+{"level":"error","message":"controller is not defined"}
+{"level":"error","message":"ReferenceError: controller is not defined\n    at registerRoutes (S:\\Projects\\Infland\\build\\routes.js:55:27)\n    at App.routes (S:\\Projects\\Infland\\build\\App.js:40:55)\n    at App.<anonymous> (S:\\Projects\\Infland\\build\\App.js:31:18)\n    at Generator.next (<anonymous>)\n    at S:\\Projects\\Infland\\build\\App.js:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (S:\\Projects\\Infland\\build\\App.js:4:12)\n    at App.init (S:\\Projects\\Infland\\build\\App.js:25:16)\n    at Object.<anonymous> (S:\\Projects\\Infland\\build\\index.js:21:5)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"Listening on :::8082"}
